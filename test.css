@@ -57,6 +57,11 @@
 	flex-direction: row;
 }
 
+.flexbox_center {
+	justify-content: center;
+	align-items: center;
+}
+
 .nav_link_spacer {
 	padding-right: 5vw;
 }
@@ -75,9 +80,6 @@
 
 #home_link {
 	font-size: 3vw;
-
-	justify-content: center;
-	align-items: center;
 }
 
 #main_text {
@@ -104,11 +106,6 @@
 
 	padding-top: 1vh;
 	padding-bottom: 1vh;
-
-	text-align: center;
-
-	justify-content: center;
-	align-items: center;
 }
 
 ::-webkit-scrollbar {
