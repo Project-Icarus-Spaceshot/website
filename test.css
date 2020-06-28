@@ -66,6 +66,18 @@
 	align-items: center;
 }
 
+.team_photo {
+	width: 15vw;
+	height: 15vw;
+	border-radius: 10px;
+	margin-left: 5vw;
+}
+
+.about_entry {
+	padding-bottom: 5vh;
+	justify-content: space-between;
+}
+
 .nav_link_spacer {
 	padding-right: 5vw;
 }
@@ -89,7 +101,7 @@
 #main_text {
 	font-size: 2vw;
 
-	padding: 10% 20% 10% 20%;
+	padding: 10% 10% 10% 10%;
 }
 
 #nav_links {
