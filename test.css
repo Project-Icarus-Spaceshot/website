@@ -43,6 +43,10 @@
 	color: #440884 !important;
 }
 
+.social_link {
+	font-size: 3vw;
+}
+
 .flex-col {
 	display: flex;
 	flex-direction: column;
@@ -102,6 +106,9 @@
 	padding-bottom: 1vh;
 
 	text-align: center;
+
+	justify-content: center;
+	align-items: center;
 }
 
 ::-webkit-scrollbar {
