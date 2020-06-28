@@ -31,6 +31,10 @@
 	font-weight: 800 !important;
 }
 
+.p_header {
+	font-size: 3vw;
+}
+
 .text_primary {
 	color: #FFFFFF;
 }
