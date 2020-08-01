@@ -6,9 +6,9 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [master, ci_implementation]
+    branches: [master, ci_update]
   pull_request:
-    branches: [master, ci_implementation]
+    branches: [master, ci_update]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -26,4 +26,4 @@ jobs:
       uses: chabad360/htmlproofer@master
       with:
         directory: "./"
-        arguments: --empty-alt-ignore --alt-ignore [team-photos/*.jpg,logo.png,rocket.png]
+        arguments: --empty-alt-ignore
