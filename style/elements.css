@@ -39,7 +39,7 @@
 	padding-left: 3vw;
 	justify-content: space-between;
 	height: 5vh;
-	box-shadow: 0 6px 2px -2px rgba(0, 0, 0, .2);
+	box-shadow: 0 6px 2px -2px rgba(0, 0, 0, 0.2);
 }
 
 #footer {
