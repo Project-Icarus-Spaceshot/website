@@ -32,4 +32,4 @@ jobs:
       uses: actions-hub/stylelint@master
       env:
         PATTERN: "style/*.css"
-        INDENT_SPACES: 4
+        INDENT_SPACE: 4
