@@ -1,5 +1,5 @@
 .background-primary {
-	background-color: #FFFFFF; 
+	background-color: #fff; 
 }
 
 .background-secondary {
@@ -7,11 +7,11 @@
 }
 
 .background-tertiary {
-	background-color: #A50000;
+	background-color: #a50000;
 }
 
 .text_primary {
-	color: #FFFFFF;
+	color: #fff;
 }
 
 .text_secondary {
