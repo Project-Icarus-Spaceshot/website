@@ -31,6 +31,6 @@ jobs:
     - name: Check CSS
       uses: actions-hub/stylelint@master
       with:
-        directory: "./style"
+        args: ./style/*.css
       env:
         INDENT_SPACES: 4
