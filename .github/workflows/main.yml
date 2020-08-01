@@ -26,4 +26,4 @@ jobs:
       uses: chabad360/htmlproofer@master
       with:
         directory: "./"
-        arguments: --alt-ignore ['team-photos/*','logo.png','rocket.png']
+        arguments: --alt-ignore ['team-photos/*.png','logo.png','rocket.png']
