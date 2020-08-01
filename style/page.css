@@ -29,6 +29,6 @@ html {
 	transform-origin: 0% 50%;
 }
 
-.hvr_ul::hover:after {
+.hvr_ul:hover::after {
 	transform: scaleX(1);
 }
