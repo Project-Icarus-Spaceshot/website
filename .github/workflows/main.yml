@@ -30,7 +30,6 @@ jobs:
         
     - name: Check CSS
       uses: actions-hub/stylelint@master
-      with:
-        args: ./style/*.css
       env:
+        PATTERN: "style/*.css"
         INDENT_SPACES: 4
