@@ -1,19 +1,19 @@
 .background-primary {
-	background-color: #fff; 
+  background-color: #fff;
 }
 
 .background-secondary {
-	background-color: #440884;
+  background-color: #440884;
 }
 
 .background-tertiary {
-	background-color: #a50000;
+  background-color: #a50000;
 }
 
 .text_primary {
-	color: #fff;
+  color: #fff;
 }
 
 .text_secondary {
-	color: #440884 !important;
+  color: #440884 !important;
 }

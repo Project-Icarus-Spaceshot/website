@@ -1,55 +1,49 @@
 .social_link {
-	font-size: 3vw;
+  font-size: 3vw;
 }
 
 .team_photo {
-	width: 15vw;
-	height: 15vw;
-	border-radius: 10px;
-	margin-left: 5vw;
+  width: 15vw;
+  height: 15vw;
+  border-radius: 10px;
+  margin-left: 5vw;
 }
 
 #top {
-	background: linear-gradient(0deg, rgba(68,8,132,1) 0%, rgba(92,0,193,1) 45%, rgba(255,204,0,1) 100%) !important;
+  background: linear-gradient(0deg, rgba(68, 8, 132, 1) 0%, rgba(92, 0, 193, 1) 45%, rgba(255, 204, 0, 1) 100%) !important;
 }
 
 #logo {
-	height: 10vh;
+  height: 10vh;
 }
 
 #main {
-	text-align: justify;
+  text-align: justify;
 }
 
 #home_link {
-	font-size: 3vw;
+  font-size: 3vw;
 }
 
 #main_text {
-	font-size: 2vw;
-
-	padding: 10% 10% 10% 10%;
+  font-size: 2vw;
+  padding: 10% 10% 10% 10%;
 }
 
 #nav_links {
-	align-self: flex-end;
-
-	font-size: 2vw;
+  align-self: flex-end;
+  font-size: 2vw;
 }
 
 #nav {
-	padding-left: 3vw;
-
-	justify-content: space-between;
-
-	height: 5vh;
-
-	box-shadow: 0 6px 2px -2px rgba(0,0,0,.2);
+  padding-left: 3vw;
+  justify-content: space-between;
+  height: 5vh;
+  box-shadow: 0 6px 2px -2px rgba(0, 0, 0, 0.2);
 }
 
 #footer {
-	font-size: 1.5vw;
-
-	padding-top: 1vh;
-	padding-bottom: 1vh;
+  font-size: 1.5vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
 }

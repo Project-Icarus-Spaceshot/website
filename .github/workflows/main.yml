@@ -27,3 +27,9 @@ jobs:
       with:
         directory: "./"
         arguments: --empty-alt-ignore
+        
+    - name: Check CSS
+      uses: actions-hub/stylelint@master
+      env:
+        INDENT_SPACES: 4
+        PATTERN: "style/*.css"
